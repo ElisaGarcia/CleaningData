@@ -54,7 +54,7 @@ from 1 to 30
   "fBodyBodyAccJerkMag-std()"   "fBodyBodyGyroMag-mean()"     "fBodyBodyGyroMag-std()"     
   "fBodyBodyGyroJerkMag-mean()" "fBodyBodyGyroJerkMag-std()" 
   
- ### In the clean data set the  average of each variable for each activity and each subject is found with the names: 
+### In the clean data set the  average of each variable for each activity and each subject is found with the names: 
  "mean.tBodyAcc-mean()-X"           
  "mean.tBodyAcc-mean()-Y"          
  "mean.tBodyAcc-mean()-Z"           
