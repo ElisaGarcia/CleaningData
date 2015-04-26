@@ -21,6 +21,7 @@ Result/Tidy data
 The result data is a data.frame. The first column of this data.frame specifies the subject, the second the type of activity that performs, and the following columns is the mean of the mean and std of the different variables associated to each type of activity.
 
 In order to achieve the result data, the steps followed have been:
+
 1. Merge the training and the test sets to create one data set.
 2. Extract only the measurements on the mean and standard deviation for each measurement. 
 3. Change the activity numbers (1 to 6) by representative names.
@@ -31,6 +32,7 @@ In order to achieve the result data, the steps followed have been:
 from 1 to 30
 
 ### Activities
+
 1. Walking
 2. Walking.Upstairs
 3. Walking.DownStairs
